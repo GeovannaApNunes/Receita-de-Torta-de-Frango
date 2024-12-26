@@ -1,0 +1,43 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    color: rgb(48, 45, 45);
+    font-family: sans-serif;
+    padding: 0.5rem;
+}
+
+.centro{
+    text-align: center;
+}
+
+img{
+    width: 595px;
+    padding: 6px;
+
+}
+
+
+
+h1, h2{
+background-color: rgba(238, 127, 16, 0.888);
+padding: 10px;
+color: aliceblue;
+}
+h1{
+    margin: 0;
+}
+
+ol,ul, p{
+    line-height: 40px;
+}
+h3,ol,ul,p{
+    text-align: left;
+}
+
+.adicional h3{
+    text-align: center;
+}
+
+.adicional p{
+    text-align: left;
+}
